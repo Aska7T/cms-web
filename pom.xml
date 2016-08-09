@@ -11,12 +11,12 @@
 	<artifactId>cms-web</artifactId>
 	<packaging>war</packaging>
 	<name>cms-web Maven Webapp</name>
-
+ 
 	<dependencies>
 
 		<dependency>
 			<groupId>org.springframework</groupId>
-			<artifactId>spring-web</artifactId>
+			<artifactId>spring-webmvc</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
